@@ -97,4 +97,3 @@ Contribuições são bem-vindas! Para contribuir:
 ---
 Este projeto é um ponto de partida para sistemas de cadastro e login modernos e escaláveis. Seu desenvolvimento será contínuo, com foco em melhores práticas e aprendizado constante.
 
-j
